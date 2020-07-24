@@ -1,7 +1,7 @@
 {
   "name": "saturn-datepicker",
   "version": "8.0.5",
-  "repository": "https://github.com/SaturnTeam/saturn-datepicker",
+  "repository": "https://github.com/chyzhvasyl/multiple-range-date-picker",
   "keywords": ["angular", "material", "datepicker", "range datepicker"],
   "author": "saturn <saturn@saturn.team>",
   "license": "MIT",
