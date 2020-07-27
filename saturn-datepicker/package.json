@@ -1,13 +1,20 @@
 {
-  "name": "saturn-datepicker",
-  "version": "8.0.5",
-  "repository": "https://github.com/chyzhvasyl/multiple-range-date-picker",
-  "keywords": ["angular", "material", "datepicker", "range datepicker"],
-  "author": "saturn <saturn@saturn.team>",
+  "name": "saturn-datepicker-modified",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chyzhvasyl/multiple-range-date-picker"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "datepicker",
+    "range datepicker"
+  ],
+  "author": "chzyh",
   "license": "MIT",
   "private": false,
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "ngPackage": {
     "$schema": "./node_modules/ng-packagr/ng-package.schema.json",
     "lib": {
